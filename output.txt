@@ -1,0 +1,21 @@
+DEPORTES: Football Club
+-----------------------
+Scenario 1:
+
+Throughput: 1920.000000
+Mean Response Time: 0.000521
+
+Scenario 2:
+
+Increased Memory by 20%
+Throughput: 3963.870968
+Mean Response Time: 0.000252
+
+Increased Memory by 50%
+Throughput: 1187.246377
+Mean Response Time: 0.000842
+
+Scenario 3:
+
+Original times: 151 158 155
+Updated times: 75 79 77
